@@ -1,0 +1,156 @@
+{
+    "path": "./resources/images/tiles.png",
+    "type":"background",
+    "sprites":[
+        {
+            "name":"sky",
+            "x":3,
+            "y":23,
+            "redrawBg":false,
+            "scalefactor":2,
+            "collision":false
+        },
+        {
+            "name":"bricks",
+            "x":1,
+            "y":0,
+            "redrawBg":false,
+            "scalefactor":2,
+            "collision":true
+        },
+        {
+            "name":"ground",
+            "x":0,
+            "y":0,
+            "redrawBg":false,
+            "scalefactor":2,
+            "collision":true
+        },
+        {
+            "name":"empty",
+            "x":27,
+            "y":0,
+            "redrawBg":false,
+            "scalefactor":2,
+            "collision":true
+        },
+        {
+            "name":"pipe_1_1",
+            "x":0,
+            "y":10,
+            "redrawBg":false,
+            "scalefactor":2,
+            "collision":true
+        },
+        {
+            "name":"pipe_1_2",
+            "x":1,
+            "y":10,
+            "scalefactor":2,
+            "collision":true,
+            "redrawBg":false,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"pipe_2_1",
+            "x":0,
+            "y":11,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":true,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"pipe_2_2",
+            "x":1,
+            "y":11,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":true,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"cloud_1_1",
+            "x":0,
+            "y":20,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":false,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"cloud_1_2",
+            "x":1,
+            "y":20,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":false,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"cloud_1_3",
+            "x":2,
+            "y":20,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":false,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"cloud_2_1",
+            "x":0,
+            "y":21,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":false,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"cloud_2_2",
+            "x":1,
+            "y":21,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":false,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"cloud_2_3",
+            "x":2,
+            "y":21,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":false,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"bush_1",
+            "x":11,
+            "y":11,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":false,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"bush_2",
+            "x":12,
+            "y":11,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":false,
+            "colorkey": [0,0,0]
+        },
+        {
+            "name":"bush_3",
+            "x":13,
+            "y":11,
+            "redrawBg":true,
+            "scalefactor":2,
+            "collision":false,
+            "colorkey": [0,0,0]
+        }
+    ] 
+}
+
+
